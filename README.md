@@ -3,6 +3,7 @@
 Monty Hall simulation in Python.
 
 Was tasked to do this as part of a training course. <br>
-Implemented with numpy, users can alter the strategy or the number of iterations the simulation runs for.
+Implemented with numpy. <br>
+Users can alter the strategy and the number of iterations or doors.
 
 Click the Binder badge to run this yourself.
