@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielTemesgen/Monty-Hall/master?filepath=%2FMonty_Hall_Simulator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanielTemesgen/monty-hall/master?filepath=%2Fmonty-hall-simulator.ipynb)
 # Monty Hall
 Monty Hall simulation in Python.
 
